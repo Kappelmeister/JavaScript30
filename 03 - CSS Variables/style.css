@@ -18,7 +18,7 @@ input {
 /* to complete the style of the CSS*/
 
 :root {
-    --base   : #ffc600;
+    --base   : #ffc600; /*variables that automatically update*/
     --spacing: 10px;
     --blur   : 10px;
 }
